@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Joaquin</h1>
-<h3 align="center">A Social Communicator / developer in progess from Argentina 🇦🇷</h3>
+### Hola! Soy Joaquin Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- 🔭 I’m currently working on [independant projects](proyects.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Python**
+Empecé mi trayectoria profesional como Comunicador Social hace 10 años. El constante movimiento y la curiosidad que me motiva naturalmente me llevó a volver al aprendizaje, esta vez el el mundo de la tecnologia. Buscó consolidarme como desarrollador
 
-- 👨‍💻 All of my projects are available at [portfolio.link](portfolio.link)
+## 📊 Estadísticas
 
-- 📫 How to reach me **jrodriguezblangino@gmail.com**
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
-- 📄 Know about my experiences [resume.link](resume.link)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrodriguezblangino&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- ⚡ Fun fact **I've travelled 32 countries and lived in 8**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrodriguezblangino&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
