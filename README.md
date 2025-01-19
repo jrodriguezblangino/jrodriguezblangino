@@ -1,8 +1,13 @@
 ### Hola! Soy Joaquin Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=008B8B&center=true&vCenter=true&width=800&lines=En+el+camino+de+convertirme+en+un+desarrollador+de+impacto.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=1500&color=008B8B&center=false&vCenter=true&repeat=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+En+el+camino+de+convertirme+en+un+desarrollador+de+impacto;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+On+my+way+to+becoming+an+impactful+developer;%F0%9F%92%A1+Transformando+ideas+en+soluciones+tecnol%C3%B3gicas;%F0%9F%92%A1+Transforming+ideas+into+technological+solutions)](https://git.io/typing-svg)
 
 Mi carrera profesional comenzó hace 10 años como Comunicador Social. A lo largo de este tiempo, la constante búsqueda de nuevos desafíos y el impulso natural hacia el aprendizaje me llevaron a redirigir mi trayectoria hacia el campo de la tecnología. Actualmente, me encuentro enfocado en consolidarme como desarrollador, aprovechando mi experiencia multidisciplinaria para abordar problemas de manera creativa y eficiente.
+
+---
+&nbsp;
+
+My professional career began 10 years ago as a Social Communicator. Throughout this time, the constant search for new challenges and the natural drive towards learning led me to redirect my path towards the technology field. Currently, I am focused on establishing myself as a developer, leveraging my multidisciplinary experience to approach problems creatively and efficiently.
 
 
 &nbsp;
@@ -76,6 +81,6 @@ Mi carrera profesional comenzó hace 10 años como Comunicador Social. A lo larg
 &nbsp;
 &nbsp;
 
-## 📊 Estadísticas
+## 📊 Statistics 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrodriguezblangino&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
