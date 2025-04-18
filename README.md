@@ -24,7 +24,7 @@ My professional career began 10 years ago as a Social Communicator. Throughout t
   <a href="https://www.facebook.com/joaquin.rodriguez.54390876" target="blank" style="margin-right: 30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joaquinrodriguezasd" height="35" width="35" />
   </a>
-  <a href="https://instagram.com/miinsta" target="blank" style="margin-right: 30px;">
+  <a href="https://www.instagram.com/jrodriguezblangino/" target="blank" style="margin-right: 30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miinsta" height="35" width="35" />
   </a>
   <a href="https://discord.gg/jrodriguezblangino" target="blank">
